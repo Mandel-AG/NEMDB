@@ -1,6 +1,6 @@
 ## Infos ##
 
-Ce projet est divisé en 2 repositories : "BZK_front" (https://github.com/Mandel-AG/BZK_front) et "NEMDB".
+Ce projet est divisé en 2 repositories : "NEMDB" et "BZK_front" (https://github.com/Mandel-AG/BZK_front).
 
 
 # Comment installer : #
