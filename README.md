@@ -1,6 +1,7 @@
 ## Infos ##
 
 Ce projet est divisé en 2 repositories : "NEMDB" et "BZK_front" (https://github.com/Mandel-AG/BZK_front).
+"BZK_front" doit etre lancé sur le port **3000**
 
 
 # Comment installer : #
